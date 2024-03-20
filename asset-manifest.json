@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/worArtifacts/static/css/main.3a8e733b.css",
+    "main.js": "/worArtifacts/static/js/main.07949eac.js",
+    "static/js/453.f35e0ffe.chunk.js": "/worArtifacts/static/js/453.f35e0ffe.chunk.js",
+    "static/media/Idril's Gaze crop.png": "/worArtifacts/static/media/Idril's Gaze crop.cd522a5682a541c00a30.png",
+    "static/media/Shadow Gaze crop.png": "/worArtifacts/static/media/Shadow Gaze crop.03b4b7c1540240961d52.png",
+    "static/media/Pin of Precision crop.png": "/worArtifacts/static/media/Pin of Precision crop.59978b7b9e75177c8b7a.png",
+    "static/media/The North's Judgment crop.png": "/worArtifacts/static/media/The North's Judgment crop.53f23c44eabbca179648.png",
+    "static/media/Broken Nightmare crop.png": "/worArtifacts/static/media/Broken Nightmare crop.70ec66d529fa0849d554.png",
+    "static/media/The Watchguard's Disguise crop.png": "/worArtifacts/static/media/The Watchguard's Disguise crop.2e7dcdaa6038ff34fcc8.png",
+    "static/media/Taunting Gaze crop.png": "/worArtifacts/static/media/Taunting Gaze crop.6473ce3246615729fac7.png",
+    "static/media/Reaper's Emblem crop.png": "/worArtifacts/static/media/Reaper's Emblem crop.f043c6db71c337da5880.png",
+    "static/media/Spirit Siphon crop.png": "/worArtifacts/static/media/Spirit Siphon crop.c4028c94d8ac8f3a16fd.png",
+    "static/media/Sharpshooter Crest crop.png": "/worArtifacts/static/media/Sharpshooter Crest crop.94ff97987a3732cdc6aa.png",
+    "static/media/Ichor Chalice crop.png": "/worArtifacts/static/media/Ichor Chalice crop.05662fd2aeb80d901b78.png",
+    "static/media/Bloodbond Signet crop.png": "/worArtifacts/static/media/Bloodbond Signet crop.1f7d92e2a89c603afcc0.png",
+    "static/media/Soulbane Rosary crop.png": "/worArtifacts/static/media/Soulbane Rosary crop.c542f89372333e436969.png",
+    "static/media/The North's Will crop.png": "/worArtifacts/static/media/The North's Will crop.a487c2b8f9bea3b9bfb5.png",
+    "static/media/The Watchguard's Unity crop.png": "/worArtifacts/static/media/The Watchguard's Unity crop.fa9dd2e9751a03532dda.png",
+    "static/media/Death Knell crop.png": "/worArtifacts/static/media/Death Knell crop.35f667691169db518d56.png",
+    "static/media/Nightmare Serpent crop.png": "/worArtifacts/static/media/Nightmare Serpent crop.177a6c1131d5fbdeccb4.png",
+    "static/media/Solar Embrace crop.png": "/worArtifacts/static/media/Solar Embrace crop.28b21fbad8df551b25e1.png",
+    "static/media/Heart of Thorn crop.png": "/worArtifacts/static/media/Heart of Thorn crop.e50797867cee4cef48c0.png",
+    "static/media/Rex's Vow crop.png": "/worArtifacts/static/media/Rex's Vow crop.0e688880357ec12676ce.png",
+    "static/media/Astral Obelisk crop.png": "/worArtifacts/static/media/Astral Obelisk crop.a5696e2b92031ffc1a70.png",
+    "static/media/Regal Crest crop.png": "/worArtifacts/static/media/Regal Crest crop.ae2d43bd0fb72b3bb717.png",
+    "static/media/Bastion Ring crop.png": "/worArtifacts/static/media/Bastion Ring crop.7e685b659d9f0ab7e944.png",
+    "static/media/Goddess' Grace crop.png": "/worArtifacts/static/media/Goddess' Grace crop.d1337ef75947b0594f3f.png",
+    "static/media/Bloodlust Phylactery crop.png": "/worArtifacts/static/media/Bloodlust Phylactery crop.cd1778cc6eb4f2d0c487.png",
+    "static/media/Tuning Crystal crop.png": "/worArtifacts/static/media/Tuning Crystal crop.be0d10f9fbfb5481a588.png",
+    "index.html": "/worArtifacts/index.html",
+    "main.3a8e733b.css.map": "/worArtifacts/static/css/main.3a8e733b.css.map",
+    "main.07949eac.js.map": "/worArtifacts/static/js/main.07949eac.js.map",
+    "453.f35e0ffe.chunk.js.map": "/worArtifacts/static/js/453.f35e0ffe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a8e733b.css",
+    "static/js/main.07949eac.js"
+  ]
+}
