@@ -2,30 +2,54 @@
   text-align: center;
 }
 
+.filterInput {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  font-size: 2em;
+}
+
+.titles {
+  font-size: 1.5em;
+}
+
+.filters {
+  display: flex;
+}
+
 .tier {
   display:flex;
 }
 
 .card {
   display: flex;
+  justify-content: center;
   flex-direction: column;
   flex-wrap: wrap;
+  align-items: center;
   margin: 1em;
 }
 
 .artifactImg {
-  border-radius: 20px
+  border-radius: 20px;
 }
 
 .table {
   width: 90%;
   justify-content: center;
+  flex-wrap: wrap;
 }
 
 .content {
   display:flex;
-  justify-content: center;
+  align-items: center;
+  flex-direction: column;
   margin: 1em;
+  flex-wrap: wrap;
+}
+
+input {
+  transform: scale(2);
 }
 
 table, th, td {
