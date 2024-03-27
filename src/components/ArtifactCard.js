@@ -1,10 +1,10 @@
 import React from 'react'
 
-export default function ArtifactCard({ name, img}) {
+export default function ArtifactCard({ name, img, tags }) {
   return (
     <div className='card'>  
       <p className='titles'>{name}</p>
-      <img className='artifactImg' src={require(`../assets/images/${img}`)} alt="" />
+      <img title={`${tags[0]}, ${tags[1]}`} className='artifactImg' src={require(`../assets/images/${img}`)} alt="" />
     </div>
   )
 }

@@ -2,19 +2,12 @@
   text-align: center;
 }
 
-.filterInput {
-  display: flex;
-  align-items: center;
-  flex-wrap: wrap;
-  font-size: 2em;
-}
-
 .titles {
   font-size: 1.5em;
 }
 
-.filters {
-  display: flex;
+.filters > Button{
+  margin: 0.5em;
 }
 
 .tier {
