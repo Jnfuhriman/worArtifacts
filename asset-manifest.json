@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/worArtifacts/static/css/main.aa2abcc6.css",
-    "main.js": "/worArtifacts/static/js/main.8f1b3eb7.js",
+    "main.css": "/worArtifacts/static/css/main.7e47c1ae.css",
+    "main.js": "/worArtifacts/static/js/main.88901ef3.js",
     "static/js/453.e67d4243.chunk.js": "/worArtifacts/static/js/453.e67d4243.chunk.js",
     "static/media/Oneiric Band crop.webp": "/worArtifacts/static/media/Oneiric Band crop.011d72cdeac4d0a58cbc.webp",
     "static/media/Idril's Gaze crop.webp": "/worArtifacts/static/media/Idril's Gaze crop.09ae7357fbe6ce8a06c5.webp",
@@ -79,13 +79,14 @@
     "static/media/F.webp": "/worArtifacts/static/media/F.d89ff96f414a6edce6dc.webp",
     "static/media/B.webp": "/worArtifacts/static/media/B.b2a6b7396d1c2cfe064e.webp",
     "static/media/C.webp": "/worArtifacts/static/media/C.960332d263e0d033edb9.webp",
+    "static/media/SSS.webp": "/worArtifacts/static/media/SSS.703ee2259c0b4196904e.webp",
     "index.html": "/worArtifacts/index.html",
-    "main.aa2abcc6.css.map": "/worArtifacts/static/css/main.aa2abcc6.css.map",
-    "main.8f1b3eb7.js.map": "/worArtifacts/static/js/main.8f1b3eb7.js.map",
+    "main.7e47c1ae.css.map": "/worArtifacts/static/css/main.7e47c1ae.css.map",
+    "main.88901ef3.js.map": "/worArtifacts/static/js/main.88901ef3.js.map",
     "453.e67d4243.chunk.js.map": "/worArtifacts/static/js/453.e67d4243.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aa2abcc6.css",
-    "static/js/main.8f1b3eb7.js"
+    "static/css/main.7e47c1ae.css",
+    "static/js/main.88901ef3.js"
   ]
 }
