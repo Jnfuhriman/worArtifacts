@@ -95,7 +95,7 @@ const data = [
 		tags: ["defender", "mythic"],
 		img: "Bastion Ring crop.webp",
 		rankSort: 1,
-		rank: "SS",
+		rank: "SSS",
 	},
 	{
 		name: "Bloodlust Phylactery",
@@ -291,7 +291,7 @@ const data = [
 		tags: ["fighter", "mythic"],
 		img: "Wailing Skull crop.webp",
 		rankSort: 1,
-		rank: "SS",
+		rank: "SSS",
 	},
 	{
 		name: "Watchguard's Ambition",
@@ -438,7 +438,7 @@ const data = [
 		tags: ["mage", "mythic"],
 		img: "Tear of Twilight crop.webp",
 		rankSort: 1,
-		rank: "SS",
+		rank: "SSS",
 	},
 	{
 		name: "The North's Storm",

@@ -15,7 +15,7 @@
   flex-wrap: wrap;
 }
 
-.card {
+.elementCard {
   display: flex;
   justify-content: center;
   flex-direction: column;
