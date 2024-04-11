@@ -15,7 +15,6 @@ export default function MainTable() {
 	const [healerDisabled, setHealerDisabled] = useState(false);
 	const [fighterDisabled, setFighterDisabled] = useState(false);
 
-
 	function load(tier) {
 		return dataToDisplay
 			.filter((a) => a.rank === tier)
@@ -26,6 +25,8 @@ export default function MainTable() {
 						name={artifact.name}
 						img={artifact.img}
 						tags={artifact.tags}
+						unrankedDescription={artifact.unrankedDescription}
+						maxRankDescription={artifact.maxRankDescription}
 					/>
 				);
 			});
@@ -33,6 +34,8 @@ export default function MainTable() {
 
 	return (
 		<div className='content'>
+
+
 			<div className='filters'>
 				<Button
 					id='mythicBtn'
@@ -52,6 +55,7 @@ export default function MainTable() {
 					id='leggoBtn'
 					variant='info'
 					onClick={() => {
+						setMythicDisabled(true);
 						setDataToDisplay(null);
 						setDataToDisplay(
 							dataToDisplay.filter((a) => a.tags.includes("legendary"))
@@ -158,50 +162,50 @@ export default function MainTable() {
 				</Button>
 			</div>
 
-			<table className='table'>
+			<table className='background'>
 				<thead></thead>
 				<tbody>
-					<tr>
-						<td>
-							<img src={require(`../assets/images/SSS.webp`)} alt='sss' />
+					<tr style={{borderBottom:"1px solid black"}}>
+						<td style={{borderRight:"1px solid black"}}>
+							<img className="tierImages" src={require(`../assets/images/SSS.webp`)} alt='' />
 						</td>
-						<td className='tier'>{load("SSS")}</td>
+						<td className="tier">{load("SSS")}</td>
 					</tr>
-					<tr>
-						<td>
-							<img src={require(`../assets/images/S.webp`)} alt='s' />
+					<tr style={{borderBottom:"1px solid black"}}>
+						<td style={{borderRight:"1px solid black"}}>
+							<img src={require(`../assets/images/S.webp`)} alt='' />
 						</td>
-						<td className='tier'>{load("S")}</td>
+						<td className="tier">{load("S")}</td>
 					</tr>
-					<tr>
-						<td>
-							<img src={require(`../assets/images/A.webp`)} alt='a' />
+					<tr style={{borderBottom:"1px solid black"}}>
+						<td style={{borderRight:"1px solid black"}}>
+							<img src={require(`../assets/images/A.webp`)} alt='' />
 						</td>
-						<td className='tier'>{load("A")}</td>
+						<td className="tier">{load("A")}</td>
 					</tr>
-					<tr>
-						<td>
-							<img src={require(`../assets/images/B.webp`)} alt='b' />
+					<tr style={{borderBottom:"1px solid black"}}>
+						<td style={{borderRight:"1px solid black"}}>
+							<img src={require(`../assets/images/B.webp`)} alt='' />
 						</td>
-						<td className='tier'>{load("B")}</td>
+						<td className="tier">{load("B")}</td>
 					</tr>
-					<tr>
-						<td>
-							<img src={require(`../assets/images/C.webp`)} alt='c' />
+					<tr style={{borderBottom:"1px solid black"}}>
+						<td style={{borderRight:"1px solid black"}}>
+							<img src={require(`../assets/images/C.webp`)} alt='' />
 						</td>
-						<td className='tier'>{load("C")}</td>
+						<td className="tier">{load("C")}</td>
 					</tr>
-					<tr>
-						<td>
-							<img src={require(`../assets/images/D.webp`)} alt='d' />
+					<tr style={{borderBottom:"1px solid black"}}>
+						<td style={{borderRight:"1px solid black"}}>
+							<img src={require(`../assets/images/D.webp`)} alt='' />
 						</td>
-						<td className='tier'>{load("D")}</td>
+						<td className="tier">{load("D")}</td>
 					</tr>
-					<tr>
-						<td>
-							<img src={require(`../assets/images/F.webp`)} alt='f' />
+					<tr style={{borderBottom:"1px solid black"}}>
+						<td style={{borderRight:"1px solid black"}}>
+							<img src={require(`../assets/images/F.webp`)} alt='' />
 						</td>
-						<td className='tier'>{load("F")}</td>
+						<td className="tier">{load("F")}</td>
 					</tr>
 				</tbody>
 			</table>

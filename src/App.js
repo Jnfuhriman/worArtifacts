@@ -8,8 +8,8 @@ import "bootstrap/dist/js/bootstrap.bundle.min";
 
 function App() {
   return (
-    <div className="App">
-      <MainTable />
+    <div className="App background">
+      <MainTable className='background' />
     </div>
   );
 }
