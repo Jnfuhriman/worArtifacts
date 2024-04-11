@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/worArtifacts/static/css/main.48604bda.css",
-    "main.js": "/worArtifacts/static/js/main.cf68e299.js",
+    "main.css": "/worArtifacts/static/css/main.de1e45fc.css",
+    "main.js": "/worArtifacts/static/js/main.4e7a5279.js",
     "static/js/453.e67d4243.chunk.js": "/worArtifacts/static/js/453.e67d4243.chunk.js",
     "static/media/Crest of Thunder crop.webp": "/worArtifacts/static/media/Crest of Thunder crop.d4821a167257e502ad2d.webp",
     "static/media/Eonian Time crop.webp": "/worArtifacts/static/media/Eonian Time crop.b0c7c0a03e174ae06284.webp",
@@ -74,21 +74,35 @@
     "static/media/Euphoric Orb crop.webp": "/worArtifacts/static/media/Euphoric Orb crop.e33084be20ff5da1ab9b.webp",
     "static/media/Soulbane Rosary crop.webp": "/worArtifacts/static/media/Soulbane Rosary crop.5475e13d6ca84c06e82e.webp",
     "static/media/Watchguard's Ambition crop.webp": "/worArtifacts/static/media/Watchguard's Ambition crop.df0a0ebb2c21619225d4.webp",
+    "static/media/packprice.webp": "/worArtifacts/static/media/packprice.c00e20c63a903a979655.webp",
     "static/media/SS.webp": "/worArtifacts/static/media/SS.a83ca2b36511bbe223f9.webp",
     "static/media/D.webp": "/worArtifacts/static/media/D.ca2ae3b39909bb1e8c23.webp",
     "static/media/S.webp": "/worArtifacts/static/media/S.f4fd81f05ab9c3060918.webp",
+    "static/media/glammetor.webp": "/worArtifacts/static/media/glammetor.bac8edbc53f78675917e.webp",
     "static/media/A.webp": "/worArtifacts/static/media/A.8b0b16294464cab5016f.webp",
+    "static/media/flawmetor.webp": "/worArtifacts/static/media/flawmetor.d8501f044bb33c481ee5.webp",
+    "static/media/artifact essence.webp": "/worArtifacts/static/media/artifact essence.72a37073aa323fd45625.webp",
+    "static/media/autobattle.webp": "/worArtifacts/static/media/autobattle.807bf34ba0e9a3a1d28a.webp",
+    "static/media/ancient crystal.webp": "/worArtifacts/static/media/ancient crystal.4222ae6a1ab39d7c29fd.webp",
     "static/media/F.webp": "/worArtifacts/static/media/F.d89ff96f414a6edce6dc.webp",
+    "static/media/leggdust.webp": "/worArtifacts/static/media/leggdust.73d95788d7a70d513822.webp",
+    "static/media/devine crystal.webp": "/worArtifacts/static/media/devine crystal.da01ecd74e8e18484fc4.webp",
+    "static/media/legsummon.webp": "/worArtifacts/static/media/legsummon.509e9a8b87076c3c60aa.webp",
+    "static/media/rare crystal.webp": "/worArtifacts/static/media/rare crystal.06b06c9b6acce2644ada.webp",
+    "static/media/packprice_1.webp": "/worArtifacts/static/media/packprice_1.8bb99121d13580a15c2e.webp",
     "static/media/B.webp": "/worArtifacts/static/media/B.b2a6b7396d1c2cfe064e.webp",
+    "static/media/gold.webp": "/worArtifacts/static/media/gold.e5a7f6df64dec9bc0e9a.webp",
     "static/media/C.webp": "/worArtifacts/static/media/C.960332d263e0d033edb9.webp",
+    "static/media/diamonds.webp": "/worArtifacts/static/media/diamonds.e141cd988efd30cdef50.webp",
+    "static/media/stamina.webp": "/worArtifacts/static/media/stamina.8a5ab2a0318b940e51db.webp",
     "static/media/SSS.webp": "/worArtifacts/static/media/SSS.703ee2259c0b4196904e.webp",
     "index.html": "/worArtifacts/index.html",
-    "main.48604bda.css.map": "/worArtifacts/static/css/main.48604bda.css.map",
-    "main.cf68e299.js.map": "/worArtifacts/static/js/main.cf68e299.js.map",
+    "main.de1e45fc.css.map": "/worArtifacts/static/css/main.de1e45fc.css.map",
+    "main.4e7a5279.js.map": "/worArtifacts/static/js/main.4e7a5279.js.map",
     "453.e67d4243.chunk.js.map": "/worArtifacts/static/js/453.e67d4243.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.48604bda.css",
-    "static/js/main.cf68e299.js"
+    "static/css/main.de1e45fc.css",
+    "static/js/main.4e7a5279.js"
   ]
 }
