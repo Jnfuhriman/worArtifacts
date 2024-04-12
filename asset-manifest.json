@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/worArtifacts/static/css/main.de1e45fc.css",
-    "main.js": "/worArtifacts/static/js/main.4e7a5279.js",
+    "main.css": "/worArtifacts/static/css/main.6bb6c7b4.css",
+    "main.js": "/worArtifacts/static/js/main.fbbb2efd.js",
     "static/js/453.e67d4243.chunk.js": "/worArtifacts/static/js/453.e67d4243.chunk.js",
     "static/media/Crest of Thunder crop.webp": "/worArtifacts/static/media/Crest of Thunder crop.d4821a167257e502ad2d.webp",
     "static/media/Eonian Time crop.webp": "/worArtifacts/static/media/Eonian Time crop.b0c7c0a03e174ae06284.webp",
@@ -74,14 +74,31 @@
     "static/media/Euphoric Orb crop.webp": "/worArtifacts/static/media/Euphoric Orb crop.e33084be20ff5da1ab9b.webp",
     "static/media/Soulbane Rosary crop.webp": "/worArtifacts/static/media/Soulbane Rosary crop.5475e13d6ca84c06e82e.webp",
     "static/media/Watchguard's Ambition crop.webp": "/worArtifacts/static/media/Watchguard's Ambition crop.df0a0ebb2c21619225d4.webp",
+    "static/media/SSS-new.webp": "/worArtifacts/static/media/SSS-new.6eb2b2ce3b7219fc62db.webp",
+    "static/media/SSS-new.png": "/worArtifacts/static/media/SSS-new.35f0357cdc3416c90f08.png",
     "static/media/packprice.webp": "/worArtifacts/static/media/packprice.c00e20c63a903a979655.webp",
     "static/media/SS.webp": "/worArtifacts/static/media/SS.a83ca2b36511bbe223f9.webp",
+    "static/media/D-new copy.webp": "/worArtifacts/static/media/D-new copy.f47bae82793cd6062d2f.webp",
+    "static/media/D-new.webp": "/worArtifacts/static/media/D-new.f47bae82793cd6062d2f.webp",
+    "static/media/A-new copy.webp": "/worArtifacts/static/media/A-new copy.29edf2750c6ee2931e23.webp",
+    "static/media/A-new.webp": "/worArtifacts/static/media/A-new.29edf2750c6ee2931e23.webp",
+    "static/media/D-new.png": "/worArtifacts/static/media/D-new.d790e21ca45768e19bb5.png",
+    "static/media/F-new copy.webp": "/worArtifacts/static/media/F-new copy.1bc0bfc29de5ef8934da.webp",
+    "static/media/F-new.webp": "/worArtifacts/static/media/F-new.1bc0bfc29de5ef8934da.webp",
+    "static/media/S-new.png": "/worArtifacts/static/media/S-new.9cf69a87bec1fa16982a.png",
+    "static/media/A-new.png": "/worArtifacts/static/media/A-new.d9b1b81485c36e5de0e1.png",
+    "static/media/B-new.webp": "/worArtifacts/static/media/B-new.ce912c415e1ba9a4c9e3.webp",
+    "static/media/F-new.png": "/worArtifacts/static/media/F-new.d2145e3f3cdf1ee628c5.png",
     "static/media/D.webp": "/worArtifacts/static/media/D.ca2ae3b39909bb1e8c23.webp",
+    "static/media/C-new copy.webp": "/worArtifacts/static/media/C-new copy.cb6d8ea11b3260a0de81.webp",
+    "static/media/C-new.webp": "/worArtifacts/static/media/C-new.cb6d8ea11b3260a0de81.webp",
     "static/media/S.webp": "/worArtifacts/static/media/S.f4fd81f05ab9c3060918.webp",
     "static/media/glammetor.webp": "/worArtifacts/static/media/glammetor.bac8edbc53f78675917e.webp",
+    "static/media/B-new.png": "/worArtifacts/static/media/B-new.e16585e208cb4f33e9e1.png",
     "static/media/A.webp": "/worArtifacts/static/media/A.8b0b16294464cab5016f.webp",
     "static/media/flawmetor.webp": "/worArtifacts/static/media/flawmetor.d8501f044bb33c481ee5.webp",
     "static/media/artifact essence.webp": "/worArtifacts/static/media/artifact essence.72a37073aa323fd45625.webp",
+    "static/media/C-new.png": "/worArtifacts/static/media/C-new.b7b402a1e4822f613cfb.png",
     "static/media/autobattle.webp": "/worArtifacts/static/media/autobattle.807bf34ba0e9a3a1d28a.webp",
     "static/media/ancient crystal.webp": "/worArtifacts/static/media/ancient crystal.4222ae6a1ab39d7c29fd.webp",
     "static/media/F.webp": "/worArtifacts/static/media/F.d89ff96f414a6edce6dc.webp",
@@ -97,12 +114,12 @@
     "static/media/stamina.webp": "/worArtifacts/static/media/stamina.8a5ab2a0318b940e51db.webp",
     "static/media/SSS.webp": "/worArtifacts/static/media/SSS.703ee2259c0b4196904e.webp",
     "index.html": "/worArtifacts/index.html",
-    "main.de1e45fc.css.map": "/worArtifacts/static/css/main.de1e45fc.css.map",
-    "main.4e7a5279.js.map": "/worArtifacts/static/js/main.4e7a5279.js.map",
+    "main.6bb6c7b4.css.map": "/worArtifacts/static/css/main.6bb6c7b4.css.map",
+    "main.fbbb2efd.js.map": "/worArtifacts/static/js/main.fbbb2efd.js.map",
     "453.e67d4243.chunk.js.map": "/worArtifacts/static/js/453.e67d4243.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.de1e45fc.css",
-    "static/js/main.4e7a5279.js"
+    "static/css/main.6bb6c7b4.css",
+    "static/js/main.fbbb2efd.js"
   ]
 }
