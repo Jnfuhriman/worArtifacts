@@ -167,43 +167,43 @@ export default function MainTable() {
 				<tbody>
 					<tr style={{borderBottom:"1px solid black"}}>
 						<td style={{borderRight:"1px solid black"}}>
-							<img className="tierImages" src={require(`../assets/images/SSS.webp`)} alt='' />
+							<img className="tierImages" src={require(`../assets/images/SSS-new.webp`)} alt='' />
 						</td>
 						<td className="tier">{load("SSS")}</td>
 					</tr>
 					<tr style={{borderBottom:"1px solid black"}}>
 						<td style={{borderRight:"1px solid black"}}>
-							<img src={require(`../assets/images/S.webp`)} alt='' />
+							<img src={require(`../assets/images/S-new.png`)} alt='' />
 						</td>
 						<td className="tier">{load("S")}</td>
 					</tr>
 					<tr style={{borderBottom:"1px solid black"}}>
 						<td style={{borderRight:"1px solid black"}}>
-							<img src={require(`../assets/images/A.webp`)} alt='' />
+							<img src={require(`../assets/images/A-new.webp`)} alt='' />
 						</td>
 						<td className="tier">{load("A")}</td>
 					</tr>
 					<tr style={{borderBottom:"1px solid black"}}>
 						<td style={{borderRight:"1px solid black"}}>
-							<img src={require(`../assets/images/B.webp`)} alt='' />
+							<img src={require(`../assets/images/B-new.webp`)} alt='' />
 						</td>
 						<td className="tier">{load("B")}</td>
 					</tr>
 					<tr style={{borderBottom:"1px solid black"}}>
 						<td style={{borderRight:"1px solid black"}}>
-							<img src={require(`../assets/images/C.webp`)} alt='' />
+							<img src={require(`../assets/images/C-new.webp`)} alt='' />
 						</td>
 						<td className="tier">{load("C")}</td>
 					</tr>
 					<tr style={{borderBottom:"1px solid black"}}>
 						<td style={{borderRight:"1px solid black"}}>
-							<img src={require(`../assets/images/D.webp`)} alt='' />
+							<img src={require(`../assets/images/D-new.webp`)} alt='' />
 						</td>
 						<td className="tier">{load("D")}</td>
 					</tr>
 					<tr style={{borderBottom:"1px solid black"}}>
 						<td style={{borderRight:"1px solid black"}}>
-							<img src={require(`../assets/images/F.webp`)} alt='' />
+							<img src={require(`../assets/images/F-new.webp`)} alt='' />
 						</td>
 						<td className="tier">{load("F")}</td>
 					</tr>
