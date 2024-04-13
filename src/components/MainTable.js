@@ -16,6 +16,7 @@ export default function MainTable() {
 	const [fighterDisabled, setFighterDisabled] = useState(false);
 
 	function load(tier) {
+		dataToDisplay.sort((a,b) => {return a.rankSort - b.rankSort});
 		return dataToDisplay
 			.filter((a) => a.rank === tier)
 			.map((artifact) => {
