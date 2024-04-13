@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/worArtifacts/static/css/main.6bb6c7b4.css",
-    "main.js": "/worArtifacts/static/js/main.fbbb2efd.js",
+    "main.js": "/worArtifacts/static/js/main.b0e29427.js",
     "static/js/453.e67d4243.chunk.js": "/worArtifacts/static/js/453.e67d4243.chunk.js",
     "static/media/Crest of Thunder crop.webp": "/worArtifacts/static/media/Crest of Thunder crop.d4821a167257e502ad2d.webp",
     "static/media/Eonian Time crop.webp": "/worArtifacts/static/media/Eonian Time crop.b0c7c0a03e174ae06284.webp",
@@ -115,11 +115,11 @@
     "static/media/SSS.webp": "/worArtifacts/static/media/SSS.703ee2259c0b4196904e.webp",
     "index.html": "/worArtifacts/index.html",
     "main.6bb6c7b4.css.map": "/worArtifacts/static/css/main.6bb6c7b4.css.map",
-    "main.fbbb2efd.js.map": "/worArtifacts/static/js/main.fbbb2efd.js.map",
+    "main.b0e29427.js.map": "/worArtifacts/static/js/main.b0e29427.js.map",
     "453.e67d4243.chunk.js.map": "/worArtifacts/static/js/453.e67d4243.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6bb6c7b4.css",
-    "static/js/main.fbbb2efd.js"
+    "static/js/main.b0e29427.js"
   ]
 }
