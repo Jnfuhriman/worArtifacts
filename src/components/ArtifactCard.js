@@ -24,10 +24,10 @@ export default function ArtifactCard({ name, img, tags, unrankedDescription, max
 					<Modal.Title>{name}</Modal.Title>
 				</Modal.Header>
 				<Modal.Body>
-          <h5>Unranked</h5>
+          <h5>Base Promotion (+1/25)</h5>
 						<span>{unrankedDescription}</span>
             <hr />
-            <h5>Max Ranked</h5>
+            <h5>Max Promotion (+25/25)</h5>
             <span>{maxRankDescription}</span>
 				</Modal.Body>
 			</Modal>
