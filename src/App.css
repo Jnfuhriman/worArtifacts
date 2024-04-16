@@ -1,7 +1,5 @@
 .App {
   text-align: center;
-  scale: 80%;
-  margin-top: -15%;
 }
 
 .background {
@@ -73,8 +71,8 @@ table, th, td {
 }
 
 img {
-  height: 150px;
-  width: 150px;
+  height: 100px;
+  width: 100px;
 }
 
 .App-logo {

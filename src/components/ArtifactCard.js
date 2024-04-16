@@ -1,5 +1,5 @@
 import { React, useState } from "react";
-import { Button, Modal } from "react-bootstrap";
+import { Modal } from "react-bootstrap";
 
 export default function ArtifactCard({ name, img, tags, unrankedDescription, maxRankDescription }) {
 	const [show, setShow] = useState(false);
