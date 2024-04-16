@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/worArtifacts/static/css/main.6bb6c7b4.css",
+    "main.css": "/worArtifacts/static/css/main.6efa5cad.css",
     "main.js": "/worArtifacts/static/js/main.3f90945c.js",
     "static/js/453.e67d4243.chunk.js": "/worArtifacts/static/js/453.e67d4243.chunk.js",
     "static/media/Crest of Thunder crop.webp": "/worArtifacts/static/media/Crest of Thunder crop.d4821a167257e502ad2d.webp",
@@ -114,12 +114,12 @@
     "static/media/stamina.webp": "/worArtifacts/static/media/stamina.8a5ab2a0318b940e51db.webp",
     "static/media/SSS.webp": "/worArtifacts/static/media/SSS.703ee2259c0b4196904e.webp",
     "index.html": "/worArtifacts/index.html",
-    "main.6bb6c7b4.css.map": "/worArtifacts/static/css/main.6bb6c7b4.css.map",
+    "main.6efa5cad.css.map": "/worArtifacts/static/css/main.6efa5cad.css.map",
     "main.3f90945c.js.map": "/worArtifacts/static/js/main.3f90945c.js.map",
     "453.e67d4243.chunk.js.map": "/worArtifacts/static/js/453.e67d4243.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6bb6c7b4.css",
+    "static/css/main.6efa5cad.css",
     "static/js/main.3f90945c.js"
   ]
 }
