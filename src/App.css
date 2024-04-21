@@ -7,7 +7,8 @@
 }
 
 .titles {
-  font-size: 1.5em;
+  font-size: 1.2em;
+  max-width: 120px;
 }
 
 .filters > Button{
@@ -40,6 +41,39 @@
   border-radius: 20px;
 }
 
+.btn.btn-info {
+  border-radius: 20rem;
+  min-width: 8rem;
+  background-color: #3898ec;
+  color: white;
+  border-color: #3898ec;
+}
+
+.btn.btn-info:disabled {
+  background-color: #2a4f6e;
+  color: white;
+  border-color: #2a4f6e;
+}
+
+.btn.btn-info:hover {
+  background-color: #3898ec;
+  border-color: white;
+  color: white;
+}
+
+.btn-check:checked+.btn, .btn.active, .btn.show, .btn:first-child:active, :not(.btn-check)+.btn:active {
+  background-color: #3898ec;
+  border-color: white;
+  color: white;
+}
+
+
+.btn.btn-info:focus-visible {
+  background-color: #3898ec;
+  border-color: white;
+  color: white;
+}
+
 .table {
   width: 90%;
   justify-content: center;
@@ -67,15 +101,21 @@ input {
 }
 
 table, th, td {
-  border-bottom: 1px solid black;
+  border-bottom: 1px solid grey;
+  border-color: grey;
 }
 
 img {
-  height: 100px;
-  width: 100px;
+  height: 70px;
+  width: 70px;
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+
+.tooltipJonas .react-tooltip {
+  max-width: 80%;
+  width: 20rem;
 }

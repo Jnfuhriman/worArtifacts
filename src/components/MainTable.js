@@ -28,6 +28,8 @@ export default function MainTable() {
 						tags={artifact.tags}
 						unrankedDescription={artifact.unrankedDescription}
 						maxRankDescription={artifact.maxRankDescription}
+						tooltipAnchor={artifact.tooltipAnchor}
+						tooltipAnchorCall={artifact.tooltipAnchorCall}
 					/>
 				);
 			});
