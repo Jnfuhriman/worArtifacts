@@ -16,6 +16,8 @@ export default function ArtifactCard({ name, img, tags, unrankedDescription, max
 
 				<Tooltip anchorSelect={tooltipAnchorCall}>
 				<div style={{ display: 'block' }}>
+					<h4>{name}</h4>
+					<hr />
 					<h5>Base Promotion (+1/25)</h5>
 					<span>{unrankedDescription}</span>
             		<hr />
