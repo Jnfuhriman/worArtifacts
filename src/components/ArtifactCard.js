@@ -1,14 +1,10 @@
-import { React, useState } from "react";
-import { Modal } from "react-bootstrap";
+import { Tooltip } from 'react-tooltip'
 
-export default function ArtifactCard({ name, img, tags, unrankedDescription, maxRankDescription }) {
-	const [show, setShow] = useState(false);
+export default function ArtifactCard({ name, img, tags, unrankedDescription, maxRankDescription, tooltipAnchor, tooltipAnchorCall}) {
 
-	const handleClose = () => setShow(false);
-	const handleShow = () => setShow(true);
 	return (
 		<>
-			<div onClick={handleShow} className='elementCard background'>
+			<div id={tooltipAnchor} className='elementCard background tooltipJonas' data-tooltip-delay-show={0}>
 				<p className='titles'>{name}</p>
 				<img
 					id={name}
@@ -17,20 +13,20 @@ export default function ArtifactCard({ name, img, tags, unrankedDescription, max
 					src={require(`../assets/images/${img}`)}
 					alt=''
 				/>
-			</div>
 
-			<Modal show={show} onHide={handleClose}>
-				<Modal.Header closeButton>
-					<Modal.Title>{name}</Modal.Title>
-				</Modal.Header>
-				<Modal.Body>
-          <h5>Base Promotion (+1/25)</h5>
-						<span>{unrankedDescription}</span>
-            <hr />
-            <h5>Max Promotion (+25/25)</h5>
-            <span>{maxRankDescription}</span>
-				</Modal.Body>
-			</Modal>
+				<Tooltip anchorSelect={tooltipAnchorCall}>
+				<div style={{ display: 'block' }}>
+					<h4>{name}</h4>
+					<hr />
+					<h5>Base Promotion (+1/25)</h5>
+					<span>{unrankedDescription}</span>
+            		<hr />
+            		<h5>Max Promotion (+25/25)</h5>
+            		<span>{maxRankDescription}</span>
+				</div>
+				</Tooltip>
+				
+			</div>
 		</>
 	);
 }

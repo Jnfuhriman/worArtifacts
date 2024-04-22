@@ -8,6 +8,8 @@ const data = [
 		maxRankDescription: "Reduces Max HP by 15% and increases Crit. DMG by 45%.",
 		rankSort: 2,
 		rank: "A",
+		tooltipAnchor: "bloodboundAnchor",
+		tooltipAnchorCall: "#bloodboundAnchor",
 	},
 	{
 		name: "Broken Nightmare",
@@ -19,6 +21,8 @@ const data = [
 			"Each Basic ATK launched increases ATK by 8% for 2 sec, stacking up to 3 time(s).",
 		rankSort: 1,
 		rank: "A",
+		tooltipAnchor: "BrokenNightmareAnchor",
+		tooltipAnchorCall: "#BrokenNightmareAnchor",
 	},
 	{
 		name: "Ichor Chalice",
@@ -30,6 +34,8 @@ const data = [
 			"Increases DMG by 15%. When dealing DMG, restores 5% of the hero’s Max HP.",
 		rankSort: 2,
 		rank: "B",
+		tooltipAnchor: "IchorChaliceAnchor",
+		tooltipAnchorCall: "#IchorChaliceAnchor",
 	},
 	{
 		name: "Idril's Gaze",
@@ -41,6 +47,8 @@ const data = [
 			"Dealing Crit. Dmg has a 25% chance to ignore 40% of the target’s DEF and M. RES for 3 sec.",
 		rankSort: 2,
 		rank: "S",
+		tooltipAnchor: "IdrilsGazeAnchor",
+		tooltipAnchorCall: "#IdrilsGazeAnchor",
 	},
 	{
 		name: "Pin of Precision",
@@ -52,6 +60,8 @@ const data = [
 			"If the hero hasn’t received any DMG within the last 6 sec, their DMG will be increased by 20%.",
 		rankSort: 3,
 		rank: "C",
+		tooltipAnchor: "PinofPrecisionAnchor",
+		tooltipAnchorCall: "#PinofPrecisionAnchor",
 	},
 	{
 		name: "Reaper's Emblem",
@@ -63,6 +73,8 @@ const data = [
 			"Increases DMG by 10%. After killing the target, increases an additional DMG of 10%, stacking up to 2 times. This effect lasts for 10 seconds.",
 		rankSort: 3,
 		rank: "A",
+		tooltipAnchor: "ReapersEmblemAnchor",
+		tooltipAnchorCall: "#ReapersEmblemAnchor",
 	},
 	{
 		name: "Shadow Gaze",
@@ -74,6 +86,8 @@ const data = [
 			"Increases ATK by 20% for every 5 attacks, lasting for 5 sec.",
 		rankSort: 1,
 		rank: "B",
+		tooltipAnchor: "ShadowGazeAnchor",
+		tooltipAnchorCall: "#ShadowGazeAnchor",
 	},
 	{
 		name: "Sharpshooter Crest",
@@ -85,6 +99,8 @@ const data = [
 			"When there are no adjacent enemies, AoE DMG is increased by 30%.",
 		rankSort: 3,
 		rank: "S",
+		tooltipAnchor: "SharpshooterCrestAnchor",
+		tooltipAnchorCall: "#SharpshooterCrestAnchor",
 	},
 	{
 		name: "Spirit Siphon",
@@ -96,6 +112,8 @@ const data = [
 			"Increases DMG dealt to the same target by 10% with each consecutive hit, up to 3 times. However, the effect will disappear if the hero switches to a different target.",
 		rankSort: 1,
 		rank: "S",
+		tooltipAnchor: "SpiritSiphon",
+		tooltipAnchorCall: "#SpiritSiphon",
 	},
 	{
 		name: "Taunting Gaze",
@@ -107,6 +125,8 @@ const data = [
 			"Increased distance means increased DMG. (Every 1 tile away from the target increases DMG dealt by 4.5%).",
 		rankSort: 2,
 		rank: "C",
+		tooltipAnchor: "TauntingGaze",
+		tooltipAnchorCall: "#TauntingGaze",
 	},
 	{
 		name: "The North's Judgement",
@@ -496,6 +516,8 @@ const data = [
 			"Increases the ATK Spd. Of all heroes in range by 30 every 60 sec, lasting for 40 sec.",
 		rankSort: 2,
 		rank: "S",
+		tooltipAnchor: "EuphoricOrbAnchor",
+		tooltipAnchorCall: "#EuphoricOrbAnchor",
 	},
 	{
 		name: "Golden Scarab",
