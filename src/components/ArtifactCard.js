@@ -8,7 +8,6 @@ export default function ArtifactCard({ name, img, tags, unrankedDescription, max
 				<p className='titles'>{name}</p>
 				<img
 					id={name}
-					title={`${tags[0]}, ${tags[1]}`}
 					className='artifactImg'
 					src={require(`../assets/images/${img}`)}
 					alt=''

@@ -138,6 +138,8 @@ const data = [
 			"When shielded, increases ATK by 15%. When the shield disappears, the bonus will last for 6 more sec.",
 		rankSort: 1,
 		rank: "D",
+		tooltipAnchor: "TheNorthsJudgementAnchor",
+		tooltipAnchorCall: "#TheNorthsJudgementAnchor",
 	},
 	{
 		name: "The Watchguard's Disguise",
@@ -147,6 +149,8 @@ const data = [
 		maxRankDescription: "Increases DMG to airborne units by 15%.",
 		rankSort: 1,
 		rank: "C",
+		tooltipAnchor: "TheWatchguardsDisguiseAnchor",
+		tooltipAnchorCall: "#TheWatchguardsDisguiseAnchor",
 	},
 	{
 		name: "Astral Obelisk",
@@ -158,6 +162,8 @@ const data = [
 			"ATK increases by 5%. After receiving healing, increases Rage Regeneration by 50% for 5 sec.",
 		rankSort: 1,
 		rank: "S",
+		tooltipAnchor: "AstralObeliskAnchor",
+		tooltipAnchorCall: "#AstralObeliskAnchor",
 	},
 	{
 		name: "Bastion Ring",
@@ -169,6 +175,8 @@ const data = [
 			"Increases Block by 1. Increases P. DMG Reduction and M. DMG Reduction by 9% for every blocked unit, stacking up to 4 times.",
 		rankSort: 1,
 		rank: "SSS",
+		tooltipAnchor: "BastionRingAnchor",
+		tooltipAnchorCall: "#BastionRingAnchor",
 	},
 	{
 		name: "Bloodlust Phylactery",
@@ -180,6 +188,8 @@ const data = [
 			"Increases DMG permanently by 1% when damage is taken. Stacks up to 25 time(s).",
 		rankSort: 1,
 		rank: "C",
+		tooltipAnchor: "BloodlustPhylacteryAnchor",
+		tooltipAnchorCall: "#BloodlustPhylacteryAnchor",
 	},
 	{
 		name: "Death Knell",
@@ -191,6 +201,8 @@ const data = [
 			"When the hero is deployed, increases DEF by 15%. When the hero’s HP drops to 40% or below, instantly restores 30% HP. This effect can be triggered up to 1 time(s) max per deployment.",
 		rankSort: 2,
 		rank: "D",
+		tooltipAnchor: "DeathKnellAnchor",
+		tooltipAnchorCall: "#DeathKnellAnchor",
 	},
 	{
 		name: "Goddess' Grace",
@@ -202,6 +214,8 @@ const data = [
 			"Increases DEF by 15%. Gains an extra 5% DEF bonus for every 10 sec on the battlefield. Stacks up to 3 time(s).",
 		rankSort: 2,
 		rank: "B",
+		tooltipAnchor: "GoddessGraceAnchor",
+		tooltipAnchorCall: "#GoddessGraceAnchor",
 	},
 	{
 		name: "Heart of Thorn",
@@ -213,6 +227,8 @@ const data = [
 		img: "Heart of Thorn crop.webp",
 		rankSort: 3,
 		rank: "D",
+		tooltipAnchor: "HeartOfThornAnchor",
+		tooltipAnchorCall: "#HeartOfThornAnchor",
 	},
 	{
 		name: "Nightmare Serpent",
@@ -224,6 +240,8 @@ const data = [
 			"Taking DMG 3 time(s) restores HP equal to 6% Max HP. This effect can take effect only 1 time every 4 sec.",
 		rankSort: 1,
 		rank: "B",
+		tooltipAnchor: "NightmareSerpentAnchor",
+		tooltipAnchorCall: "#NightmareSerpentAnchor",
 	},
 	{
 		name: "Regal Crest",
@@ -233,6 +251,8 @@ const data = [
 		maxRankDescription: "Received Healing +40%.",
 		rankSort: 3,
 		rank: "C",
+		tooltipAnchor: "RegalCrestAnchor",
+		tooltipAnchorCall: "#RegalCrestAnchor",
 	},
 	{
 		name: "Rex's Vow",
@@ -244,6 +264,8 @@ const data = [
 			"Reduces damage taken by 20% when protected by a shield.",
 		rankSort: 2,
 		rank: "A",
+		tooltipAnchor: "RexsVowAnchor",
+		tooltipAnchorCall: "#RexsVowAnchor",
 	},
 	{
 		name: "Solar Embrace",
@@ -253,6 +275,8 @@ const data = [
 		maxRankDescription: "When taking DMG, DEF is increased by 22% for 3 sec.",
 		rankSort: 1,
 		rank: "D",
+		tooltipAnchor: "SolarEmbraceAnchor",
+		tooltipAnchorCall: "#SolarEmbraceAnchor",
 	},
 	{
 		name: "Soulbane Rosary",
@@ -264,6 +288,8 @@ const data = [
 			"Reduces Max HP by 5%, increases ATK by 10%, and increases ATK Spd. By 50.",
 		rankSort: 2,
 		rank: "C",
+		tooltipAnchor: "SoulbaneRosaryAnchor",
+		tooltipAnchorCall: "#SoulbaneRosaryAnchor",
 	},
 	{
 		name: "The North's Will",
@@ -273,6 +299,8 @@ const data = [
 		maxRankDescription: "Whenever the hero loses shield, restores 15% HP.",
 		rankSort: 2,
 		rank: "S",
+		tooltipAnchor: "TheNorthsWillAnchor",
+		tooltipAnchorCall: "#TheNorthsWillAnchor",
 	},
 	{
 		name: "The Watchguard's Unity",
@@ -282,6 +310,8 @@ const data = [
 		maxRankDescription: "Max HP +20%",
 		rankSort: 3,
 		rank: "A",
+		tooltipAnchor: "TheWatchguardsUnityAnchor",
+		tooltipAnchorCall: "#TheWatchguardsUnityAnchor",
 	},
 	{
 		name: "Tuning Crystal",
@@ -293,6 +323,8 @@ const data = [
 			"After every 10 Basic ATK landed, deals AoE P. DMG 1 time equal to 250% of DMG Multiplier to at most 5 targets and restores HP for 20% of DMG dealt.",
 		rankSort: 1,
 		rank: "A",
+		tooltipAnchor: "TuningCrystalAnchor",
+		tooltipAnchorCall: "#TuningCrystalAnchor",
 	},
 	{
 		name: "Amulet of Arteries",
@@ -304,6 +336,8 @@ const data = [
 			"For every 10 instance(s) of M. ATK inflicted, Selene’s Shadow Strike is summoned upon up to 3 enemies, dealing 130% DMG. The effect can be triggered as often as 1 time every 8 sec.",
 		rankSort: 2,
 		rank: "C",
+		tooltipAnchor: "AmuletOfArteriesAnchor",
+		tooltipAnchorCall: "#AmuletOfArteriesAnchor",
 	},
 	{
 		name: "Crest of Thunder",
@@ -313,6 +347,8 @@ const data = [
 		maxRankDescription: "Increases AoE DMG by 20%",
 		rankSort: 3,
 		rank: "C",
+		tooltipAnchor: "CrestOfThunderAnchor",
+		tooltipAnchorCall: "#CrestOfThunderAnchor",
 	},
 	{
 		name: "Eye of Sin",
@@ -324,6 +360,8 @@ const data = [
 			"Increases AoE DMG by 20%. Killing enemies grants an extra 10% AoE DMG bonus that lasts 3 sec.",
 		rankSort: 1,
 		rank: "B",
+		tooltipAnchor: "EyeOfSinAnchor",
+		tooltipAnchorCall: "#EyeOfSinAnchor",
 	},
 	{
 		name: "Flux Pendant",
@@ -335,6 +373,8 @@ const data = [
 			"Increases Crit. DMG by 30%. When HP drops below 50%, the increase is doubled.",
 		rankSort: 1,
 		rank: "A",
+		tooltipAnchor: "FluxPendantAnchor",
+		tooltipAnchorCall: "#FluxPendantAnchor",
 	},
 	{
 		name: "Frigid Flame",
@@ -346,6 +386,8 @@ const data = [
 			"Increases DMG by 11% every 4 sec when no DMG is taken. Stacks up to 3 times. Taking DMG each time removes 1 stack.",
 		rankSort: 4,
 		rank: "S",
+		tooltipAnchor: "FrigidFlameAnchor",
+		tooltipAnchorCall: "#FrigidFlameAnchor",
 	},
 	{
 		name: "Lucky Legacy",
@@ -357,6 +399,8 @@ const data = [
 			"For each time the cost is restored, there is a 15% chance to double the amount.",
 		rankSort: 2,
 		rank: "B",
+		tooltipAnchor: "LuckyLegacyAnchor",
+		tooltipAnchorCall: "#LuckyLegacyAnchor",
 	},
 	{
 		name: "Lunacy Visor",
@@ -368,6 +412,8 @@ const data = [
 			"Increases Block by 1. Additionally, the wearer restores HP equal to 1.2% of Max HP each time they deal DMG to 1 target, stacking up to 3 targets.",
 		rankSort: 2,
 		rank: "S",
+		tooltipAnchor: "LunacyVisorAnchor",
+		tooltipAnchorCall: "#LunacyVisorAnchor",
 	},
 	{
 		name: "Nightmare Shadow",
@@ -379,6 +425,8 @@ const data = [
 			"Increases Crit. Rate by 10% for every 5 attack(s). Can stack up to 3.",
 		rankSort: 1,
 		rank: "C",
+		tooltipAnchor: "NightmareShadowAnchor",
+		tooltipAnchorCall: "#NightmareShadowAnchor",
 	},
 	{
 		name: "Prey Slayer",
@@ -388,6 +436,8 @@ const data = [
 		maxRankDescription: "Deals 20% extra DMG to target inflicted with Bleed.",
 		rankSort: 2,
 		rank: "D",
+		tooltipAnchor: "PreySlayerAnchor",
+		tooltipAnchorCall: "#PreySlayerAnchor",
 	},
 	{
 		name: "Scarlet Hunt",
@@ -397,6 +447,8 @@ const data = [
 		maxRankDescription: "Deals 30% extra DMG to targets inflicted with Bleed.",
 		rankSort: 3,
 		rank: "S",
+		tooltipAnchor: "ScarletHuntAnchor",
+		tooltipAnchorCall: "#ScarletHuntAnchor",
 	},
 	{
 		name: "Rage Chain",
@@ -408,6 +460,8 @@ const data = [
 			"Increases Crit. DMG by 0.6% for every 1% reduction in HP.",
 		rankSort: 1,
 		rank: "D",
+		tooltipAnchor: "RageChainAnchor",
+		tooltipAnchorCall: "#RageChainAnchor",
 	},
 	{
 		name: "Realm Tear",
@@ -419,6 +473,8 @@ const data = [
 			"Deals increased DMG to enemies beyond 1 tile from the hero. For every 1 tile beyond the first, DMG is increased by 8%.",
 		rankSort: 1,
 		rank: "S",
+		tooltipAnchor: "RealmTearAnchor",
+		tooltipAnchorCall: "#RealmTearAnchor",
 	},
 	{
 		name: "Slayer's Malice",
@@ -428,6 +484,8 @@ const data = [
 		maxRankDescription: "When HP is above 80%, increases DMG by 20%.",
 		rankSort: 3,
 		rank: "B",
+		tooltipAnchor: "SlayersMaliceAnchor",
+		tooltipAnchorCall: "#SlayersMaliceAnchor",
 	},
 	{
 		name: "The North's Horn",
@@ -439,6 +497,8 @@ const data = [
 			"When shielded, increases Crit. Rate by 15%. When the shield disappears, the Crit. Rate bonus will last for 6 more sec.",
 		rankSort: 3,
 		rank: "D",
+		tooltipAnchor: "TheNorthsHornAnchor",
+		tooltipAnchorCall: "#TheNorthsHornAnchor",
 	},
 	{
 		name: "Voroth's Wrath",
@@ -450,6 +510,8 @@ const data = [
 			"Increases Crit. Rate by 0.8% for every 1% reduction in HP.",
 		rankSort: 3,
 		rank: "C",
+		tooltipAnchor: "VorothsWrathAnchor",
+		tooltipAnchorCall: "#VorothsWrathAnchor",
 	},
 	{
 		name: "Wailing Skull",
@@ -461,6 +523,8 @@ const data = [
 			"Dealing DMG has a 40% chance of summoning 1 Shadow Guard with 150% of the hero’s attributes to attack enemies for 10 sec. The effect can be triggered as often as 1 time(s) every 20 sec.",
 		rankSort: 1,
 		rank: "SSS",
+		tooltipAnchor: "WailingSkullAnchor",
+		tooltipAnchorCall: "#WailingSkullAnchor",
 	},
 	{
 		name: "Watchguard's Ambition",
@@ -472,6 +536,8 @@ const data = [
 			"Each Basic ATK launched has a(n) 15% chance of triggering another Basic ATK.",
 		rankSort: 2,
 		rank: "A",
+		tooltipAnchor: "WatchguardsAmbitionAnchor",
+		tooltipAnchorCall: "#WatchguardsAmbitionAnchor",
 	},
 	{
 		name: "Brightroot Ring",
@@ -483,6 +549,8 @@ const data = [
 			"When HP is at maximum, increases Healing Effect by 40.",
 		rankSort: 3,
 		rank: "A",
+		tooltipAnchor: "BrightrootRingAnchor",
+		tooltipAnchorCall: "#BrightrootRingAnchor",
 	},
 	{
 		name: "Chalice of Youth",
@@ -494,6 +562,8 @@ const data = [
 			"Increases Healing Multiplier by 30% when healing a hero with less than 40% HP.",
 		rankSort: 1,
 		rank: "D",
+		tooltipAnchor: "ChaliceOfYouthAnchor",
+		tooltipAnchorCall: "#ChaliceOfYouthAnchor",
 	},
 	{
 		name: "Elysian Epitaph",
@@ -505,6 +575,8 @@ const data = [
 			"Increases Healing Effect (ST) by 8% for every 1 ally unit(s) present in range, stacking up to 4 time(s).",
 		rankSort: 2,
 		rank: "A",
+		tooltipAnchor: "ElysianEpitaphAnchor",
+		tooltipAnchorCall: "#ElysianEpitaphAnchor",
 	},
 	{
 		name: "Euphoric Orb",
@@ -527,6 +599,8 @@ const data = [
 		maxRankDescription: "ATK increases by 5%. Rage Regen increases by 50%.",
 		rankSort: 1,
 		rank: "S",
+		tooltipAnchor: "GoldenScarabAnchor",
+		tooltipAnchorCall: "#GoldenScarabAnchor",
 	},
 	{
 		name: "Nephrite Folio",
@@ -538,6 +612,8 @@ const data = [
 			"When HP is at maximum, increases Healing Effect by 20.",
 		rankSort: 2,
 		rank: "D",
+		tooltipAnchor: "NephriteFolioAnchor",
+		tooltipAnchorCall: "#NephriteFolioAnchor",
 	},
 	{
 		name: "Nyniv's Mercy",
@@ -549,6 +625,8 @@ const data = [
 			"When entering the field, increases Healing Effect by 15.",
 		rankSort: 2,
 		rank: "C",
+		tooltipAnchor: "NynivsMercyAnchor",
+		tooltipAnchorCall: "#NynivsMercyAnchor",
 	},
 	{
 		name: "Oneiric Band",
@@ -560,6 +638,8 @@ const data = [
 			"When the Ultimate is triggered, increases ATK by 10% and ATK Spd. by 60 for 15 sec.",
 		rankSort: 2,
 		rank: "B",
+		tooltipAnchor: "OneiricBandAnchor",
+		tooltipAnchorCall: "#OneiricBandAnchor",
 	},
 	{
 		name: "Radiant Lantern",
@@ -571,6 +651,8 @@ const data = [
 			"Increases AoE Healing Effect by 8 for every 1 allied unit(s) in range, stacking up to 4 time(s).",
 		rankSort: 1,
 		rank: "C",
+		tooltipAnchor: "RadiantLanternAnchor",
+		tooltipAnchorCall: "#RadiantLanternAnchor",
 	},
 	{
 		name: "Sacred Amber",
@@ -582,6 +664,8 @@ const data = [
 			"Increases Healing Effect by 40. Additionally, for each ally in range, reduces Healing Effect by 10.",
 		rankSort: 3,
 		rank: "D",
+		tooltipAnchor: "SacredAmberAnchor",
+		tooltipAnchorCall: "#SacredAmberAnchor",
 	},
 	{
 		name: "The North's Glory",
@@ -593,6 +677,8 @@ const data = [
 			"Healing a unit to full HP has a 40% chance of granting them a shield equal to 30% of its Max HP for 10 sec. The effect can only be triggered 1 time every 5 seconds.",
 		rankSort: 1,
 		rank: "B",
+		tooltipAnchor: "TheNorthsGloryAnchor",
+		tooltipAnchorCall: "#TheNorthsGloryAnchor",
 	},
 	{
 		name: "The Watchguard's Fortune",
@@ -604,6 +690,8 @@ const data = [
 			"Each Basic ATK launched has a chance equal to 20% of Crit. Rate to trigger 1 additional heal.",
 		rankSort: 1,
 		rank: "F",
+		tooltipAnchor: "TheWatchguardsFortuneAnchor",
+		tooltipAnchorCall: "#TheWatchguardsFortuneAnchor",
 	},
 	{
 		name: "Tumultuous Horn",
@@ -613,6 +701,8 @@ const data = [
 		maxRankDescription: "Increases Initial Rage by 50% when deployed.",
 		rankSort: 3,
 		rank: "S",
+		tooltipAnchor: "TumultuousHornAnchor",
+		tooltipAnchorCall: "#TumultuousHornAnchor",
 	},
 	{
 		name: "Tya's Balm",
@@ -624,6 +714,8 @@ const data = [
 			"Increases Healing Multiplier by 50% when healing a hero with less than 40% HP.",
 		rankSort: 1,
 		rank: "A",
+		tooltipAnchor: "TyasBalmAnchor",
+		tooltipAnchorCall: "#TyasBalmAnchor",
 	},
 	{
 		name: "Eonian Time",
@@ -635,6 +727,8 @@ const data = [
 			"Dealing AoE DMG increases the hero’s AoE DMG by 2%. This effect can stack up to 10 time(s) and last for 3 sec.",
 		rankSort: 3,
 		rank: "C",
+		tooltipAnchor: "EonianTimeAnchor",
+		tooltipAnchorCall: "#EonianTimeAnchor",
 	},
 	{
 		name: "Heaven's Rage",
@@ -644,6 +738,8 @@ const data = [
 		maxRankDescription: "A Crit. Hit increases Crit. DMG by 45% for 3 sec.",
 		rankSort: 2,
 		rank: "B",
+		tooltipAnchor: "HeavensRageAnchor",
+		tooltipAnchorCall: "#HeavensRageAnchor",
 	},
 	{
 		name: "Nightmare Samsara",
@@ -653,6 +749,8 @@ const data = [
 		maxRankDescription: "Restores 7.5% Rage for every 5 attacks.",
 		rankSort: 1,
 		rank: "S",
+		tooltipAnchor: "NightmareSamsaraAnchor",
+		tooltipAnchorCall: "#NightmareSamsaraAnchor",
 	},
 	{
 		name: "Soul Binding Crystal",
@@ -664,6 +762,8 @@ const data = [
 			"Restores 5% Rage when killing the target. Cooldown: 5 sec.",
 		rankSort: 1,
 		rank: "D",
+		tooltipAnchor: "SoulBindingCrystalAnchor",
+		tooltipAnchorCall: "#SoulBindingCrystalAnchor",
 	},
 	{
 		name: "Spellcaster's Echo",
@@ -673,6 +773,8 @@ const data = [
 		maxRankDescription: "Recovers 15% Rage after using a skill.",
 		rankSort: 4,
 		rank: "B",
+		tooltipAnchor: "SpellcastersEchoAnchor",
+		tooltipAnchorCall: "#SpellcastersEchoAnchor",
 	},
 	{
 		name: "Tear of Twilight",
@@ -684,6 +786,8 @@ const data = [
 			"ATK is increased by 30% when deployed. When HP is lower than 80%, the ATK increase effect is reduced to 15%.",
 		rankSort: 1,
 		rank: "SSS",
+		tooltipAnchor: "TearOfTwilightAnchor",
+		tooltipAnchorCall: "#TearOfTwilightAnchor",
 	},
 	{
 		name: "The North's Storm",
@@ -693,6 +797,8 @@ const data = [
 		maxRankDescription: "When shielded, increases ATK by 15%.",
 		rankSort: 2,
 		rank: "D",
+		tooltipAnchor: "TheNorthsStormAnchor",
+		tooltipAnchorCall: "#TheNorthsStormAnchor",
 	},
 	{
 		name: "The Watchguard's Wisdom",
@@ -704,6 +810,8 @@ const data = [
 			"Increases the chance of triggering an additional Basic ATK by 0.5% for every 1% increase in Rage. This effect can be triggered up to 1 time every 5 sec.",
 		rankSort: 2,
 		rank: "C",
+		tooltipAnchor: "TheWatchguardsWisdomAnchor",
+		tooltipAnchorCall: "#TheWatchguardsWisdomAnchor",
 	},
 	{
 		name: "Tidal Ring",
@@ -715,6 +823,8 @@ const data = [
 			"Increases DMG by 15%. Dealing DMG has a 50% chance of slowing down the target by 50% for 2 sec. This effect can be triggered up to 1 time every 4 sec.",
 		rankSort: 1,
 		rank: "C",
+		tooltipAnchor: "TidalRingAnchor",
+		tooltipAnchorCall: "#TidalRingAnchor",
 	},
 	{
 		name: "Tome of Horror",
@@ -726,6 +836,8 @@ const data = [
 			"Attacking slowed targets increases ATK Spd. by 30 and Rage Regen by 50% for 5 sec. This effect can only be triggered 1 time every 8 sec.",
 		rankSort: 3,
 		rank: "B",
+		tooltipAnchor: "TomeOfHorrorAnchor",
+		tooltipAnchorCall: "#TomeOfHorrorAnchor",
 	},
 	{
 		name: "Unfortunate Skull",
@@ -737,6 +849,8 @@ const data = [
 			"DMG received is increased by 10% while AoE DMG is increased by 35%.",
 		rankSort: 1,
 		rank: "B",
+		tooltipAnchor: "UnfortunateSkullAnchor",
+		tooltipAnchorCall: "#UnfortunateSkullAnchor",
 	},
 	{
 		name: "White Tower Trinket",
@@ -747,6 +861,8 @@ const data = [
 		maxRankDescription: "When deployed, increases ATK by 18%. When there are no adjacent allies, gains an extra ATK Spd. Increase of 35.",
 		rankSort: 1,
 		rank: "A",
+		tooltipAnchor: "WhiteTowerTrinketAnchor",
+		tooltipAnchorCall: "#WhiteTowerTrinketAnchor",
 	},
 ];
 
